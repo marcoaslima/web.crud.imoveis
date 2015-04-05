@@ -14,14 +14,14 @@ Requisitos:
 * Excluir um imóvel;
 * Pesquisar por imóvel;
 * Listar  imóveis;
-* Mostrar detalhes do imóvel com os imóveis recentes;
+* Mostrar detalhes do imóvel com os imóveis recentes.
 
 Ferramentas e conhecimentos empregados
 
-* Twitter Bootstrap
-* Sublime Text
-* MySQL
-* Hospedagem
-* PHP
+* Twitter Bootstrap;
+* Sublime Text;
+* MySQL;
+* Hospedagem;
+* PHP;
 
 Qualquer dúvida ou sugestão enviar para contato@megari.com.br
