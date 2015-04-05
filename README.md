@@ -26,4 +26,4 @@ Ferramentas e conhecimentos empregados
 
 Qualquer dúvida ou sugestão enviar para contato@megari.com.br
 
-Desenvolvido por Michel Prince e [Marco Aurélio Lima](http://www.marcolima.hol.es)
+Desenvolvido por [Michel Prince](http://mprince.zz.vc) e [Marco Aurélio Lima](http://www.marcolima.hol.es)
