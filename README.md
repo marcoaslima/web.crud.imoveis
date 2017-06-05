@@ -9,7 +9,7 @@ Sponsor: Leonardo Villani
 
 ### Tela
 
-![App screenshots](http://c1.staticflickr.com/5/4267/34304812303_79a916774b_b.jpg)
+![App screenshots](http://c1.staticflickr.com/5/4271/34304839173_e731bf7758_b.jpg)
 
 ### Requisitos:
 
